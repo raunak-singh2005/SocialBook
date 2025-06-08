@@ -424,7 +424,7 @@
     </div>
 
     <!-- === Scripts === -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwNYG4p8LD_XQP3LVR8pPTS4yISGYiEt4"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=<YOUR API KEY HERE>"></script>
     <script src="js/profile.js"></script>
 </body>
 </html>
